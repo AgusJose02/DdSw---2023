@@ -8,7 +8,8 @@
 
 ### Repositorios
 
-- [fullstack app](https://github.com/AgusJose02/tp-verano)
+- [front-end](https://github.com/AgusJose02/quickesticket-fe)
+- [back-end](https://github.com/AgusJose02/quickesticket-be)
 
 ## Tema
 
