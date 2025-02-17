@@ -8,7 +8,7 @@
 
 ### Repositorios
 
-- [fullstack app](https://github.com/AgusJose02/tp-quickesticket)
+- [fullstack app](https://github.com/AgusJose02/tp-verano)
 
 ## Tema
 
@@ -18,7 +18,7 @@ Ticketera en la que se podrá llevar registro de la cantidad de horas realizadas
 
 ### Modelo
 
-![imagen del modelo](https://github.com/AgusJose02/tp-verano/blob/main/Diagrama%20de%20Tablas%20-%20QuickesTicket.png)
+![imagen del modelo](https://raw.githubusercontent.com/AgusJose02/quickesticket/refs/heads/main/quickesticket_final.png)
 
 | Req                     | Detalle                                                                                                         |
 | :---------------------- | :-------------------------------------------------------------------------------------------------------------- |
